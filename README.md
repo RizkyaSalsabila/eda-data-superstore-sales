@@ -9,11 +9,11 @@
    
 3. Berapa total penjualan dan total profit secara keseluruhan?  
    ![Sum Sales and Sum Profit](https://github.com/RizkyaSalsabila/eda-data-superstore-sales/blob/main/image/pertanyaan3.JPG)
-   > Dari total penjualan keseluruhan, perusahaan mampu meraih margin profit sebesar 12.5%. Ini menunjukkan bahwa bisnis masih berjalan secara menguntungkan.
+   > Dari total penjualan keseluruhan, perusahaan mampu meraih margin profit **sebesar 12.5%**. Ini menunjukkan bahwa bisnis masih berjalan secara menguntungkan.
 
 4. Wilayah (Region) mana yang memberikan profit terbesar dan terkecil?  
    ![Sum Sales and Sum Profit](https://github.com/RizkyaSalsabila/eda-data-superstore-sales/blob/main/image/pertanyaan4_new.JPG)
-   > Berdasarkan analisis profit per wilayah, Region West merupakan wilayah paling menguntungkan dengan total profit sebesar $108.418, disusul oleh East ($91.534), South ($46.749), dan Central ($39.706). Hal ini menunjukkan bahwa West memiliki potensi pasar yang tinggi dan strategi yang efektif, sementara wilayah Central memiliki kontribusi paling rendah dan perlu dianalisis lebih lanjut untuk perbaikan. Insight ini dapat membantu perusahaan dalam pengambilan keputusan strategis untuk peningkatan profit di wilayah yang kurang optimal.
+   > Berdasarkan analisis profit per wilayah, **Region West merupakan wilayah paling menguntungkan** dengan total profit sebesar $108.418, disusul oleh East ($91.534), South ($46.749), dan Central ($39.706). Hal ini menunjukkan bahwa West memiliki potensi pasar yang tinggi dan strategi yang efektif, sementara **wilayah Central memiliki kontribusi paling rendah** dan perlu dianalisis lebih lanjut untuk perbaikan. Insight ini dapat membantu perusahaan dalam pengambilan keputusan strategis untuk peningkatan profit di wilayah yang kurang optimal.
    
 5. Siapa pelanggan yang paling banyak membeli atau menghasilkan nilai penjualan tertinggi?  
     ![Top Customer](https://github.com/RizkyaSalsabila/eda-data-superstore-sales/blob/main/image/pertanyaan5.JPG)
